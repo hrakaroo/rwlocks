@@ -306,4 +306,6 @@ func main() {
 	//ex3()
 	//ex4()
 	//ex5()
+
+	time.Sleep(1 * time.Second)
 }
